@@ -8,7 +8,7 @@ You don't need internet for this.
 - Favorites tab;
 
 ### Screens: 
-![Image](src)
+![Screenshot](3.jpg)
 
 ### Support or Contact
 
