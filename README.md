@@ -8,7 +8,8 @@ You don't need internet for this.
 - Favorites tab;
 
 ### Screens: 
-![Screenshot](3.jpg)
+![First screen](Simulator_Screen_Shot_iPhone_Xs%20(6).jpg)
+![Second screen](Simulator_Screen_Shot_iPhone_Xs%20(5).jpg)
 
 ### Support or Contact
 
